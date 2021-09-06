@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/morney-zhu-website/static/css/main.24d6fb40.chunk.css",
+    "main.js": "/morney-zhu-website/static/js/main.35461e1c.chunk.js",
+    "main.js.map": "/morney-zhu-website/static/js/main.35461e1c.chunk.js.map",
+    "runtime-main.js": "/morney-zhu-website/static/js/runtime-main.b2ad75f9.js",
+    "runtime-main.js.map": "/morney-zhu-website/static/js/runtime-main.b2ad75f9.js.map",
+    "static/js/2.97ddd9e7.chunk.js": "/morney-zhu-website/static/js/2.97ddd9e7.chunk.js",
+    "static/js/2.97ddd9e7.chunk.js.map": "/morney-zhu-website/static/js/2.97ddd9e7.chunk.js.map",
+    "static/js/3.a191c323.chunk.js": "/morney-zhu-website/static/js/3.a191c323.chunk.js",
+    "static/js/3.a191c323.chunk.js.map": "/morney-zhu-website/static/js/3.a191c323.chunk.js.map",
+    "index.html": "/morney-zhu-website/index.html",
+    "static/css/main.24d6fb40.chunk.css.map": "/morney-zhu-website/static/css/main.24d6fb40.chunk.css.map",
+    "static/js/2.97ddd9e7.chunk.js.LICENSE.txt": "/morney-zhu-website/static/js/2.97ddd9e7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2ad75f9.js",
+    "static/js/2.97ddd9e7.chunk.js",
+    "static/css/main.24d6fb40.chunk.css",
+    "static/js/main.35461e1c.chunk.js"
+  ]
+}
